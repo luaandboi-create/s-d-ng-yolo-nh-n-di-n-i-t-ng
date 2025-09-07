@@ -1,1 +1,3 @@
 # yolo ver 
+Nghiên cứu tổng quan về YOLO, trong đó tập trung tìm hiểu về các nội dung: tổng quan, ứng dụng và các tác động của YOLO trong cơ sở, so sánh hiệu suất hoạt động của các phiên bản YOLO, Train dữ liệu. Đồng thời bên cạnh đó cũng chỉ ra một số tác động tích cực và tiêu cực của YOLO, chỉ ra được các xu hướng phát triển trong nhận diện hình ảnh, những khó khăn, thách thức trong việc nghiên cứu, điều này sẽ là cơ sở để phát triển YOLO tại Việt Nam trong thời gian tới.
+<img width="955" height="510" alt="image" src="https://github.com/user-attachments/assets/cbe7f7f9-a62d-4228-b352-e594ac6e7857" />
